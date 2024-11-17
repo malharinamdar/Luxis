@@ -1,5 +1,5 @@
 # diffusion-model
-implementation of the diffusion models paper from scratch 
+implementation of the paper `Denoising Diffusion Probabilistic Models` from scratch.
 
 
 ## Downloading the `ckpt` file :
