@@ -4,8 +4,8 @@ implementation of the diffusion models paper from scratch
 
 ## Downloading the `ckpt` file :
 
-1. Download `v1-5-pruned-emaonly.ckpt` from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main
-   and save it in the `data` folder
+1.) Download `v1-5-pruned-emaonly.ckpt` from https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main
+    and save it in the `data` folder
 
 
 ## Thanks : 
