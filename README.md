@@ -1,5 +1,6 @@
 # diffusion-model
 implementation of the paper `Denoising Diffusion Probabilistic Models` from scratch.
+
 paper available in the repo as `pdf`
 
 
