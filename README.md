@@ -14,5 +14,5 @@ paper available in the repo as `pdf`
 Special thanks to : 
 
 
-1.) https://github.com/hkproj for conceptual clarity and explanation.
+1.) Umar Jamil's video for conceptual clarity and explanation.
    
