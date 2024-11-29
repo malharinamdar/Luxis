@@ -10,9 +10,4 @@ paper available in the repo as `pdf`
     and save it in the `data` folder
 
 
-## Thanks : 
-Special thanks to : 
-
-
-1.) Umar Jamil's video for conceptual clarity and explanation.
    
