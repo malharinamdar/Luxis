@@ -1,5 +1,6 @@
 # diffusion-model
-implementation of the paper `Denoising Diffusion Probabilistic Models` from scratch.
+project involves building generative models such as Stable Diffusion based on the research paper
+`Denoising diffusion probabilistic models` research paper using PyTorch.
 
 paper available in the repo as `pdf`
 
