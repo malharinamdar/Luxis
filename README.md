@@ -14,7 +14,6 @@ paper available in the repo as `pdf`
 
 - https://medium.com/@ninads79shukla/building-a-stable-diffusion-model-from-scratch-with-pytorch-part-1-b358106a846b
 
-- https://github.com/hkproj/pytorch-stable-diffusion
 
 - https://towardsdatascience.com/diffusion-model-from-scratch-in-pytorch-ddpm-9d9760528946
 
