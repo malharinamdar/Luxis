@@ -17,6 +17,9 @@ paper available in the repo as `pdf`
 
 - https://towardsdatascience.com/diffusion-model-from-scratch-in-pytorch-ddpm-9d9760528946
 
+## Example demonstration
+
+- Sample image generated based on the input prompt present in the `demo.ipynb` in the `stable diffusion` directory.
 
 
 
