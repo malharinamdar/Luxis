@@ -17,4 +17,12 @@ paper available in the repo as `pdf`
 
 - https://towardsdatascience.com/diffusion-model-from-scratch-in-pytorch-ddpm-9d9760528946
 
+
+## Example demonstration
+
+- Input prompt: `"Albert Einstein walking thoughtfully along Oxford University's historic stone corridor, carrying a notebook, highly detailed, ultra sharp, cinematic, soft warm lighting, 8k resolution, wide-angle view, capturing intricate architectural details in the background."`
+
+- Output Image:
+![Generated Image](stable.png)
+
    
