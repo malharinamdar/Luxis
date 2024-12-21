@@ -1,5 +1,5 @@
 # diffusion-model
-project involves building generative models such as Stable Diffusion based on the research paper
+project involves building generative model such as Stable Diffusion based on the research paper
 `Denoising diffusion probabilistic models` research paper using PyTorch.
 
 paper available in the repo as `pdf`
